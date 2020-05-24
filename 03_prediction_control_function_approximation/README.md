@@ -43,4 +43,4 @@ Every algorithm you have learned about so far estimates a value function as an i
 
 ## Course Certificate
 
-![Certificate](./3W9VT59J6R7E.png)
+![Certificate](./2M7CM5JLVHFB.png)

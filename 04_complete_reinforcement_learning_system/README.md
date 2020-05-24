@@ -38,4 +38,4 @@ This week you will identify a parameter to study, for your agent. Once you selec
 
 ## Course Certificate
 
-![Certificate](./3W9VT59J6R7E.png)
+![Certificate](./7DJ8NHKUS9LT.png)

@@ -46,4 +46,4 @@ Up until now, you might think that learning with and without a model are two dis
 
 ## Course Certificate
 
-![Certificate](./3W9VT59J6R7E.png)
+![Certificate](./NFEYHLAW7P2Q.png)
